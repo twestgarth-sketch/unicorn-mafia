@@ -675,6 +675,13 @@
   url: "https://www.movablevoice.com"
   tagline: "Voice AI for the Frontline Workforce"
 
+  - name: "Fractile"
+  category: "startup"
+  lat: 51.520109151378
+  lng: -0.109694637750655
+  area: "Farringdon"
+  url: "https://www.fractile.ai/"
+  tagline: "Radically Accelearating Inference for the World's Largest AI Models"
 # ── Big Tech ───────────────────────────────────────────
 
 - name: "Google / DeepMind"
